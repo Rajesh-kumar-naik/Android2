@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android2</string>
+    <string name="text1">Hellow World</string>
+    <string name="text2">I am a greate developer</string>
+    <string name="bt1">Lets Check</string>
+    <string name="bt2">Check again</string>
+</resources>
